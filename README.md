@@ -3,4 +3,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of TK№21 college, beginner in programming 🇷🇺</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/kopa19) 
+
